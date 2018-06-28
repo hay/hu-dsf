@@ -1,0 +1,2 @@
+# Data Science Fundamentals
+This repository contains assignments, exercises and data related to the course [Data Science Fundamentals](https://learn.hu.nl/course/view.php?id=798), a part of the master [Data Driven Design](https://learn.hu.nl/course/index.php?categoryid=93).
