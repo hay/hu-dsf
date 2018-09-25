@@ -1,5 +1,21 @@
 # Data science fundamentals cheatsheet
 
+## Comparisons
+All of these evaluate to `True`
+
+| Operator | Description | Example |
+| -------- | ----------- | ------- |
+| `==` | Is the same | `42 == 42` |
+| `!=` | Is not the same | `"Tinus" != "Barrie"` |
+| `<`  | Is lesser than | `30 < 40` |
+| `<=` | Is lesser or equals than | `30 <= 30` |
+| `>`  | Is greater than | `40 > 30` |
+| `>=` | Is greater or equals than | `40 >= 40` |
+| `in` | String is in other string | `"Jan" in "Jantje"` |
+| `not in` | String is not in other string | `"Piet" not in "Jantje"` |
+| `and` | Two comparisons are both true | `("Jan" in "Jantje") and ("Piet" in "Pietje")` |
+| `or` | One of either is true | `("Jan" in "Jantje") or ("Piet" in "Jantje")` |
+
 ## Terminal commands
 | command | use | example |
 | ------- | --- | ------- |
