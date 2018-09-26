@@ -26,7 +26,8 @@ For every week there is a Jupyter Notebook containing examples relating to the s
 
 ### Exercises
 These are optional exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment.
-* Week 1, lesson 1: [Myfitnesspal](exercises/myfitnesspal.ipynb) - [Student solutions](exercises/myfitnesspal.md)
+* Week 1, lesson 1: [Myfitnesspal](exercises/myfitnesspal.md)
+* Week 1, lesson 2: [Lovetest](exercises/lovetest.md)
 
 ### Slides
 These are PDF versions of the slides i give every week.
