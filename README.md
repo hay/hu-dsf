@@ -5,7 +5,7 @@
 * [Examples](#examples)
 * [Exercises](#exercises)
 * [Slides](#slides)
-* [Resources](#resouces)
+* [Resources and tips](#resources-and-tips)
 
 ## Essentials
 * **Teachers**: [Hay Kranen](mailto:hay.kranen@hu.nl) and [Jonas Moons](mailto:jonas.moons@hu.nl)
