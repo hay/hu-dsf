@@ -1,5 +1,16 @@
 # Data science fundamentals cheatsheet
 
+## Common string methods
+| Method | Description | Example |
+| ------ | ----------- | ------- |
+| `lower()` | Lowercases the string | `"HELLO".lower()` |
+| `upper()` | Uppercases the string | `"hello".upper()` |
+| `replace()` | Searches for a string in a string and replaces that | `"I like pie".replace("pie", "cookies"`) |
+| `find()` | Gives the position of a string in another string | `"Jantje".find("je")` |
+| `strip()` | Removes all whitespace before the beginning and end of a string | `"    hello  ".strip()` |
+| `in` | Not a method, but an operator to check if a string is in another string | `"Jan" in "Jantje"` |
+
+
 ## Comparisons
 All of these evaluate to `True`
 
