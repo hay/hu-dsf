@@ -42,11 +42,14 @@ All of these evaluate to `True`
 | `mv` | Rename or move a file | `mv test2.py test3.py` |
 | `rm` | Delete a file | `rm test3.py` |
 | | Delete a directory | `rm -r pythoncode` |
+| `python` | Run a python program | `python mycode.py` |
 
 ### Terminal tips
 * Try the TAB key to autocomplete your commands
 * Use up and down arrow keys for previous / next commands
 * Use CTRL-C to stop something
+* Use CTRL-D to exit the Python interpreter
+* A caret (`^`) stands for Control, e.g. ^X means 'Press CTRL and then X'
 
 ## Git commands
 | command | use | example |
