@@ -21,6 +21,7 @@ This is a list of students and teachers of the HU master Data Driven Design with
 * [Tycho](https://github.com/Thunderkings19/)
 * [Shayan](https://github.com/shayan-z/)
 * [Sjoerd](https://github.com/Sjoerdklaver/)
+* [Yvonne](https://github.com/yvonnebutselaar)
 
 
 
