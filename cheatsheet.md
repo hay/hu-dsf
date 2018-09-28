@@ -34,7 +34,7 @@ All of these evaluate to `True`
 | | List files as a list | `ls -l` |
 | `cd` | Change to directory | `cd Desktop` |
 |  | Up one level in directory structure | `cd ..` |
-| `mkdir` | Make a directory | `md pythoncode` |
+| `md` | Make a directory | `md pythoncode` |
 | `pwd` | Print working directory | `pwd` |
 | `touch` | Create a new empty file | `touch test.py` |
 | `cat` | Print the contents of a file | `cat test.py` |
