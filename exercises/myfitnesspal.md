@@ -18,3 +18,4 @@
 * [Bente](https://github.com/bentevo/ddd/blob/master/homework01.ipynb)
 * [Sjoerd](https://github.com/Sjoerdklaver/data-driven-design/blob/master/myfitnesspal)
 * [Leon](https://github.com/leonberlang/Exercise-1/blob/master/fitnessapp.py)
+* https://github.com/BNawabi/Exercises-Data-Sience-Fundamentals/blob/master/MyFitnessPAL.ipynb
