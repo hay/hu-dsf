@@ -1,11 +1,12 @@
-words = ["red", "yellow", "blue", "green", "orange"]
+colors = ["red", "yellow", "blue", "green", "orange"]
 emoji = ["🔴", "💛", "🔵", "💚", "🧡"]
 sentence = input("Enter a sentence: ")
-new_sentence = []
 
+# Here's a solution where we create a new list, and append the replaced word to it
+new_sentence = []
 for word in sentence.split(" "):
-    if word in words:
-        index = words.index(word)
+    if word in colors:
+        index = colors.index(word)
         icon = emoji[index]
         print(word + " should be " + icon)
         new_sentence.append(icon)
