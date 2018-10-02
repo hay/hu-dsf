@@ -20,3 +20,6 @@ Apart from warning the user when looping through the sentence print back a 'corr
 * [Kolien](https://github.com/KolienPleijsant/master/blob/master/wordchecker.py)
 * [Sjoerd](https://github.com/Sjoerdklaver/data-driven-design/blob/master/spellchecker.py)
 * [Alex](https://github.com/Alex-Gaas/Data-Science-Fundamentals/blob/master/checkadvanced.py)
+* [Oswaldo](https://github.com/OzzyHU/repository/blob/master/exercise3_sentence_speller.ipynb)
+* [Jahou](https://github.com/JahouNyan/learningpython/blob/master/spellchecker.py)
+* [Denilo](https://github.com/Deser12/DataScienceFundamentals-/blob/master/word-checker.py)
