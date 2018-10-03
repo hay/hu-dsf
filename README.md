@@ -29,6 +29,7 @@ These are optional exercises you can make during the lesson to test your knowled
 * Lesson 1: [Myfitnesspal](exercises/myfitnesspal.md)
 * Lesson 2: [Lovetest](exercises/lovetest.md)
 * Lesson 3: [Snacknames](exercises/snacknames.md) and [spellchecker](exercises/checker.md)
+* Lesson 4: [Snacknames multidimensional](exercises/snacknames-multi.md), [Sentence slicer](exercises/senslice.md) and [CSV reader](exercises/csvreader.md)
 
 ### Slides
 These are PDF versions of the slides i use during classes.
