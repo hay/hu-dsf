@@ -23,3 +23,5 @@ Apart from warning the user when looping through the sentence print back a 'corr
 * [Oswaldo](https://github.com/OzzyHU/repository/blob/master/exercise3_sentence_speller.ipynb)
 * [Jahou](https://github.com/JahouNyan/learningpython/blob/master/spellchecker.py)
 * [Denilo](https://github.com/Deser12/DataScienceFundamentals-/blob/master/word-checker.py)
+* [Shayan](https://github.com/shayan-z/exercises/blob/master/exercise4.py)
+* [Yvonne](https://github.com/yvonnebutselaar/data-driven-design/blob/master/spellchecker.py)
