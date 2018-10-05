@@ -10,6 +10,29 @@
 | `strip()` | Removes all whitespace before the beginning and end of a string | `"    hello  ".strip()` |
 | `in` | Not a method, but an operator to check if a string is in another string | `"Jan" in "Jantje"` |
 
+### Printing strings
+To print things use the `print` statement
+
+```python
+name = "Tinus"
+print(name)
+```
+
+Sometimes a line can be pretty long, you could do something like this
+```python
+print("To be, or not to be, that is the question:")
+print("Whether 'tis nobler in the mind to suffer")
+print("The slings and arrows of outrageous fortune,")
+```
+
+But you could also do this:
+```python
+print("""
+To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+""")
+```
 
 ## Comparisons
 All of these evaluate to `True`

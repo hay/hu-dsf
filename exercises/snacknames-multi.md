@@ -11,3 +11,5 @@
 * [Tessa](https://github.com/tessadvries/DSF/blob/master/dsf-exercise5-multidimensionallist-snacks.py)
 * [Yvonne](https://github.com/yvonnebutselaar/data-driven-design/blob/master/multidimensionalsnacks.py)
 * [Tycho](https://github.com/Thunderkings19/DDD2018/blob/master/snack2.py)
+* [Leon](https://github.com/leonberlang/datasciencefundamentals/blob/master/week2-exercises/multidimension-snacknames.py)
+* [Jahou](https://github.com/JahouNyan/learningpython/blob/master/paintingcsv.py.py)
