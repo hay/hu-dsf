@@ -16,3 +16,4 @@ Extend the program so that after printing the name the program asks for their fa
 * [Denilo](https://github.com/Deser12/DataScienceFundamentals-/blob/master/friends_snack.py)
 * [Shayan](https://github.com/shayan-z/exercises/blob/master/exercise3.py)
 * [Yvonne](https://github.com/yvonnebutselaar/data-driven-design/blob/master/listsandsnacks.py)
+* [Samuel](https://github.com/ShmuelAmpofo/dsexercise/blob/master/friendscookies.py)

@@ -25,3 +25,4 @@ Apart from warning the user when looping through the sentence print back a 'corr
 * [Denilo](https://github.com/Deser12/DataScienceFundamentals-/blob/master/word-checker.py)
 * [Shayan](https://github.com/shayan-z/exercises/blob/master/exercise4.py)
 * [Yvonne](https://github.com/yvonnebutselaar/data-driven-design/blob/master/spellchecker.py)
+* [Samuel](https://github.com/ShmuelAmpofo/dsexercise/blob/master/spellchecker.py)

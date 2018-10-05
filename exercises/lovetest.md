@@ -25,3 +25,4 @@ Calculate a 'similarity percentage' based on multiple criteria, such as:
 * [Bob](https://github.com/bw9300/Data-Science-Fundamentals/blob/master/lovetest.py)
 * [Tomas](https://github.com/tomashabraken/Love_test/blob/master/Love_test.py)
 * [Bilal](https://github.com/BNawabi/Exercises-Data-Sience-Fundamentals/blob/master/lovegame.py)
+* [Samuel](https://github.com/ShmuelAmpofo/dsexercise/blob/master/friendscookies.py)

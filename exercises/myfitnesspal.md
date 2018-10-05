@@ -19,3 +19,4 @@
 * [Sjoerd](https://github.com/Sjoerdklaver/data-driven-design/blob/master/myfitnesspal)
 * [Leon](https://github.com/leonberlang/Exercise-1/blob/master/fitnessapp.py)
 * [Bilal](https://github.com/BNawabi/Exercises-Data-Sience-Fundamentals/blob/master/MyFitnessPAL.ipynb)
+* [Samuel](https://github.com/ShmuelAmpofo/dsexercise/blob/master/myfittnesspal.py)

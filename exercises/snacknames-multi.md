@@ -12,4 +12,7 @@
 * [Yvonne](https://github.com/yvonnebutselaar/data-driven-design/blob/master/multidimensionalsnacks.py)
 * [Tycho](https://github.com/Thunderkings19/DDD2018/blob/master/snack2.py)
 * [Leon](https://github.com/leonberlang/datasciencefundamentals/blob/master/week2-exercises/multidimension-snacknames.py)
-* [Jahou](https://github.com/JahouNyan/learningpython/blob/master/paintingcsv.py.py)
+* [Jahou](https://github.com/JahouNyan/learningpython/blob/master/snacknames.py)
+* [Hanna](https://github.com/hannavw/dsf_exercises/blob/master/multidimensional_snacknames.py)
+* [Samuel](https://github.com/ShmuelAmpofo/dsexercise/blob/master/snakenamulti.py)
+* [Denilo](https://github.com/Deser12/DataScienceFundamentals-/blob/master/multidimensional_friends_snack.py)
