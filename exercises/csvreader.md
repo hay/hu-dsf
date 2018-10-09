@@ -10,3 +10,4 @@
 * [Bente](https://github.com/bentevo/ddd/blob/master/exercises/paintings.py)
 * [Hanna](https://github.com/hannavw/dsf_exercises/blob/master/add_text_to_csv_paintings.py)
 * [Denilo](https://github.com/Deser12/DataScienceFundamentals-/blob/master/csv_reader.py#)
+* [Alex](https://github.com/Alex-Gaas/Data-Science-Fundamentals/blob/master/csvwriter.py)
