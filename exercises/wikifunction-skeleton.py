@@ -1,3 +1,7 @@
+"""
+To see an example of the Wikipedia API JSON look at this url:
+https://en.wikipedia.org/api/rest_v1/page/summary/Japanese_cuisine
+"""
 import requests
 
 title = "Japanese cuisine"
