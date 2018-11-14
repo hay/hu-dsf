@@ -1,38 +1,29 @@
+# Data Science Fundamentals with Python
 # ![Data Science Fundamentals](assets/dsf.jpg)
 
 ## Table of contents
 * [Essentials](#essentials)
-* [Examples](#examples)
-* [Exercises](#exercises)
 * [Slides](#slides)
 * [Resources and tips](#resources-and-tips)
 
+## Introduction
+This was a course I (Hay Kranen) developed for the [Master Data Driven Design](https://www.hu.nl/deeltijd-opleidingen/master-data-driven-design) at the [University of Applied Sciences Utrecht](https://www.internationalhu.com/).
+
+The basis is [a book with 25 chapters](./book/README.md) that gives an introduction course to data science using the Python programming language in the form of Jupyter Notebooks. It assumes technical skills from the student, but no previous programming experience is required.
+
+There are also some [#slides](slides) i gave during the course and more [examples](./examples/). This whole course is licensed [under an open license](https://creativecommons.org/licenses/by-sa/4.0/).
+
+To use this course i recommend installing the [Anaconda Distribution](https://www.anaconda.com/download/).
+
 ## Essentials
-* **Teachers**: [Hay Kranen](mailto:hay.kranen@hu.nl) and [Jonas Moons](mailto:jonas.moons@hu.nl)
-* [The course on learn.hu.nl](https://learn.hu.nl/course/view.php?id=798)
-* [The master on learn.hu.nl](https://learn.hu.nl/course/index.php?categoryid=93)
-* [Data-driven design Slack](https://datadrivendesign2018.slack.com/)
-* **Deadline**: **Monday November 5th before 12:00** you hand in [the five assignments](https://learn.hu.nl/mod/book/view.php?id=41929&chapterid=3392) as [a zipfile on learn.hu.nl](https://learn.hu.nl/mod/assign/view.php?id=64659).
+* **[The book with 25 chapters is available here](./book/README.md)**
+* [Some extra examples are available here](./examples/)
 * [Cheatsheet](cheatsheet.md)
-* [Students and their Github accounts](students.md)
-
-### Examples
-For every week there is a Jupyter Notebook containing examples relating to the subjects of that week
-* [Lessons 1 & 2: Math, variables, `print()`, `input()`, comparisons, types, `if`, string methods](examples/examples-1.ipynb)
-* [Lessons 3 & 4: Lists, `for`, `while`, files, `csv`](examples/examples-2.ipynb)
-* [Lessons 5 & 6: dicts, `json`, f-strings, HTTP api's](examples/examples-3.ipynb)
-* [Lessons 7 & 8: Reddit / `praw`, Pandas](examples/examples-4.ipynb)
-* [Lessons 9 & 10: Web scraping](examples/examples-5.ipynb)
-
-### Exercises
-These are optional exercises you can make during the lesson to test your knowledge. You **don't** need to submit these with the final assignment.
-* Lesson 1: [Myfitnesspal](exercises/myfitnesspal.md)
-* Lesson 2: [Lovetest](exercises/lovetest.md)
-* Lesson 3: [Snacknames](exercises/snacknames.md) and [spellchecker](exercises/checker.md)
-* Lesson 4: [Snacknames multidimensional](exercises/snacknames-multi.md), [Sentence slicer](exercises/senslice.md) and [CSV reader](exercises/csvreader.md)
+* **License**: This course is available under a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+* **Credits**: This course was developed by [Hay Kranen](mailto:huskyr@gmail.com) with generous feedback from [Jonas Moons](mailto:jonas.moons@hu.nl).
 
 ### Slides
-These are PDF versions of the slides i use during classes.
+These are PDF versions of the slides i gave during classes.
 * [Lesson 1](slides/dsf-w1l1.pdf)
 * [Lesson 2](slides/dsf-w1l2.pdf)
 * [Lesson 3](slides/dsf-lesson3.pdf)
@@ -42,7 +33,7 @@ These are PDF versions of the slides i use during classes.
 * [Lesson 7](slides/dsf-lesson7.pdf)
 * [Lesson 8](slides/dsf-lesson8.pdf)
 * [Lesson 9](slides/dsf-lesson9.pdf)
-* [Lesson 19](slides/dsf-lesson10.pdf)
+* [Lesson 10](slides/dsf-lesson10.pdf)
 
 ### Resources and tips
 *Feel free to [fork](https://help.github.com/articles/fork-a-repo/) this file and add more resources!*
@@ -73,3 +64,7 @@ These are PDF versions of the slides i use during classes.
 * Pay close attention to the error output you get when you run a command. Google it if you don’t understand it.
 * Note that Python is case sensitive and most file systems are too. When you create a new file only use lowercase characters, no spaces (use the underscore `_` instead).
 * Read all the comments in the examples i provide. 90% of the things asked in the assignments are already solved for you there.
+
+#### Miscellaneous
+* [The course on learn.hu.nl] (for HU students) (https://learn.hu.nl/course/view.php?id=798)
+* [The master on learn.hu.nl] (for HU students) (https://learn.hu.nl/course/index.php?categoryid=93)
