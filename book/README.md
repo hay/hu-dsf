@@ -31,4 +31,4 @@
 25. [Web scraping with BeautifulSoup](25-web-scraping.ipynb)
 
 ## Credits
-This course was developed by [Hay Kranen](mailto:huskyr@gmail.com) with generous feedback from [Jonas Moons](mailto:jonas.moons@hu.nl). Logo by [https://commons.wikimedia.org/wiki/File:Schr%C3%B6dinger%27s_cat_illustration.png](Ranganath Krishnamani).
+This course was developed by [Hay Kranen](mailto:huskyr@gmail.com) with generous feedback from [Jonas Moons](mailto:jonas.moons@hu.nl). Logo by [Ranganath Krishnamani](https://commons.wikimedia.org/wiki/File:Schr%C3%B6dinger%27s_cat_illustration.png).
