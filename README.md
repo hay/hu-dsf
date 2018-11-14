@@ -11,16 +11,16 @@ This was a course I (Hay Kranen) developed for the [Master Data Driven Design](h
 
 The basis is [a book with 25 chapters](./book/README.md) that gives an introduction course to data science using the Python programming language in the form of Jupyter Notebooks. It assumes technical skills from the student, but no previous programming experience is required.
 
-There are also some [#slides](slides) i gave during the course and more [examples](./examples/). This whole course is licensed [under an open license](https://creativecommons.org/licenses/by-sa/4.0/).
+There are also some [slides](#slides) i gave during the course and more [examples](./examples/). This whole course is licensed [under an open license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 To use this course i recommend installing the [Anaconda Distribution](https://www.anaconda.com/download/).
 
 ## Essentials
 * **[The book with 25 chapters is available here](./book/README.md)**
 * [Some extra examples are available here](./examples/)
-* [Cheatsheet](cheatsheet.md)
+* [Cheatsheet](examples/cheatsheet.md)
 * **License**: This course is available under a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
-* **Credits**: This course was developed by [Hay Kranen](mailto:huskyr@gmail.com) with generous feedback from [Jonas Moons](mailto:jonas.moons@hu.nl).
+* **Credits**: This course was developed by [Hay Kranen](mailto:huskyr@gmail.com) with generous feedback from [Jonas Moons](mailto:jonas.moons@hu.nl). Logo by [https://commons.wikimedia.org/wiki/File:Schr%C3%B6dinger%27s_cat_illustration.png](Ranganath Krishnamani).
 
 ### Slides
 These are PDF versions of the slides i gave during classes.
@@ -66,5 +66,5 @@ These are PDF versions of the slides i gave during classes.
 * Read all the comments in the examples i provide. 90% of the things asked in the assignments are already solved for you there.
 
 #### Miscellaneous
-* [The course on learn.hu.nl] (for HU students) (https://learn.hu.nl/course/view.php?id=798)
-* [The master on learn.hu.nl] (for HU students) (https://learn.hu.nl/course/index.php?categoryid=93)
+* [The course on learn.hu.nl (for HU students)](https://learn.hu.nl/course/view.php?id=798)
+* [The master on learn.hu.nl (for HU students)](https://learn.hu.nl/course/index.php?categoryid=93)

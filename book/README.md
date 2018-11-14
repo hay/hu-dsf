@@ -1,5 +1,9 @@
-# Example notebooks
+# Data Science Fundamentals with Python
+![Data Science Fundamentals](../assets/dsf.jpg)
 
+[Read the introduction to this course](../README.md).
+
+## Chapters
 01. [Basic math, variables and the `print` and `input` functions](01-variables-math-print-input.ipynb)
 02. [Comparisons, the `if` statement and string concatenation and methods](02-comparisons-if-quit.ipynb)
 03. [Concatenation and string methods](03-strings-concatting.ipynb)
@@ -25,3 +29,6 @@
 23. [Accessing the Reddit API using the `praw` library](23-reddit-praw.ipynb)
 24. [Functions](24-functions.ipynb)
 25. [Web scraping with BeautifulSoup](25-web-scraping.ipynb)
+
+## Credits
+This course was developed by [Hay Kranen](mailto:huskyr@gmail.com) with generous feedback from [Jonas Moons](mailto:jonas.moons@hu.nl). Logo by [https://commons.wikimedia.org/wiki/File:Schr%C3%B6dinger%27s_cat_illustration.png](Ranganath Krishnamani).
