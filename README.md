@@ -24,8 +24,8 @@ To use this course i recommend installing the [Anaconda Distribution](https://ww
 
 ### Slides
 These are PDF versions of the slides i gave during classes.
-* [Lesson 1](slides/dsf-w1l1.pdf)
-* [Lesson 2](slides/dsf-w1l2.pdf)
+* [Lesson 1](slides/dsf-lesson1.pdf)
+* [Lesson 2](slides/dsf-lesson2.pdf)
 * [Lesson 3](slides/dsf-lesson3.pdf)
 * [Lesson 4](slides/dsf-lesson4.pdf)
 * [Lesson 5](slides/dsf-lesson5.pdf)
